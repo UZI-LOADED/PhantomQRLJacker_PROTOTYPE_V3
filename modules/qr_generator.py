@@ -1,0 +1,1 @@
+# Placeholder content for qr_generator.py
